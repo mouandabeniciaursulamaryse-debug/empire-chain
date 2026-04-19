@@ -1,0 +1,1 @@
+// Content of src/components/3D/SkyscraperRenderer.tsx

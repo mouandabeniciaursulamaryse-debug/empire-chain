@@ -1,2 +1,1 @@
-# empire-chain
-Telegram Mini App - Strategy game with 3D empire building
+# Empire Chain Project\n\n## Description\nThis project is for...
